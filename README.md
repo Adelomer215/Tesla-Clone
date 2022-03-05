@@ -1,4 +1,4 @@
-#live: https://adelomer215.github.io/Tesla-Clone/
+# Live: https://adelomer215.github.io/Tesla-Clone/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
